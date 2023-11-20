@@ -10,6 +10,8 @@ const Menu = ({ isOpen, onClose }) => {
                 <li><Link to="/play">Play Game</Link></li>
                 <li><Link to="/scores">Scores</Link></li>
                 <li><Link to="/about">About Us</Link></li>
+                <li><Link to="/Game Functionality">Game Functionality</Link></li>
+                <li><Link to="/GetHelp">GetHelp</Link></li>
                 {/* Add other menu items here */}
             </ul>
         </div>
